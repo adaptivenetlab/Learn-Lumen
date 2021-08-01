@@ -3,7 +3,7 @@
    
    Stagging : [https://api.bignetlab.com/]
    
-   Frontend Repo : https://github.com/gilangvperdana/Learn-Vue.js
+   Frontend Repo : https://github.com/adaptivenetlab/Learn-Vue.js
    
 ```Environment to Deploy:
 Environment:
