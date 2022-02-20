@@ -1,7 +1,6 @@
 # Learn Website Backend [Lumen]
    Simply CRUD with Lumen for Backend API. 
-   
-   Stagging : [https://api.bignetlab.com/]
+ 
    
    Frontend Repo : https://github.com/adaptivenetlab/Learn-Vue.js
    
